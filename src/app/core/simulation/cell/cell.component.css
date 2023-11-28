@@ -1,0 +1,11 @@
+.cell {
+    aspect-ratio: 1;
+}
+
+.alive {
+    background-color: black;
+}
+
+.dead {
+    background-color: whitesmoke;
+}

@@ -1,0 +1,16 @@
+.grid {
+    height: 100vh;
+    display: flex;
+    flex-flow: row nowrap;
+}
+.board {
+    display: flex;
+    width: 75%;
+    flex-flow: column nowrap;
+    justify-content: center;
+    align-items: center;
+}
+
+.side {
+    width: 25%;
+}
